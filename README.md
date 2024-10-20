@@ -5,7 +5,7 @@ This tool is specifically designed to test for vulnerabilities in JWT tokens. It
 ## 1) Token modification:
 ### Automatically modifies the token by changing the algorithm or payload.
 ## 2) Cracking:
-### Brute-force the secret key.
+### Brute-force the secret key using custom wordlist or default wordlist.
 
 # SCREENSHOT OF THE TOOL
 ![Screenshot at 2024-10-20 14-16-39](https://github.com/user-attachments/assets/1371ee54-1083-43cb-a319-2182a990d343)
