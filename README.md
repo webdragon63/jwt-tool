@@ -1,4 +1,6 @@
 # DESCRIPTION OF JWT-TOOL
+![th-2921757946](https://github.com/user-attachments/assets/f1fe9bbf-95d0-40c6-a451-37857b86232d)
+
 This tool is specifically designed to test for vulnerabilities in JWT tokens. It automates two types of attacks. Such as 
 ## 1) Token modification:
 ### Automatically modifies the token by changing the algorithm or payload.
