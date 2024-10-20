@@ -1,7 +1,7 @@
 # DESCRIPTION OF JWT-TOOL
 This tool is specifically designed to test for vulnerabilities in JWT tokens. It automates two types of attacks. Such as 
 ## 1) Token modification:
-### Automatically modifies the token, for example by changing the algorithm or payload.
+### Automatically modifies the token by changing the algorithm or payload.
 ## 2) Cracking:
 ### Brute-force the secret key.
 
