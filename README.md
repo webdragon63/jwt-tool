@@ -6,6 +6,7 @@ This tool is specifically designed to test for vulnerabilities in JWT tokens. It
 ### Brute-force the secret key.
 
 # SCREENSHOT OF THE TOOL
+![Screenshot at 2024-10-20 14-16-39](https://github.com/user-attachments/assets/1371ee54-1083-43cb-a319-2182a990d343)
 
 
 # INSTALLATION
